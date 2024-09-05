@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @philstronder
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning web3
+- 🌱 I’m currently learning devops
 - 📫 How to reach me felipevale@gmail.com
 
 <!---
